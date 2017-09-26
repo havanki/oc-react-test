@@ -1,0 +1,24 @@
+/* Styling the UI with designated colors */
+
+$color-default-text: #67707c;
+$color-light-gray: #D3DADE;
+
+// Navigation
+$color-navigation-bg: #3C4A55;
+$color-navigation-highlight: #EC6608;
+// Navigation item
+$color-navigation-item-bg: #E6E9EB;
+$color-navigation-item-bg-hover: darken($color-navigation-item-bg, 25);
+$color-navigation-item-bg-selected: darken($color-navigation-item-bg-hover, 25);
+$color-navigation-item-highlight-bg: $color-navigation-highlight;
+
+// Default navigation item text colors
+$color-navigation-text: $color-default-text;
+
+// UserArea
+$color-userarea-item-default-text: $color-navigation-bg;
+$color-userarea-item-text-hover: $color-navigation-text;
+$color-userarea-bg-hover: darken($color-light-gray, 18);
+
+// Content area background color
+$color-site-bg: $color-light-gray;
