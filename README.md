@@ -98,7 +98,7 @@ Some guidelines
 
 
 Test assignments frame has been built using the boilerplate: ` create-react-app `, which
-has good [documentation](httos://github.com/facebookincubator/create-react-app).
+has good [documentation](https://github.com/facebookincubator/create-react-app).
 
 
 Good luck!.
