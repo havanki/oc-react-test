@@ -77,6 +77,7 @@ Only few requirements:
   * Component is usable also with mobile devices.
   * Component supports browsers: IE11, Chrome
   * It works with example API data!
+  * Optional: Add routing and placeholder components. [Example](./assignment/img/design/2nd_lvl_highlighted.png)
 
 Some guidelines
 
