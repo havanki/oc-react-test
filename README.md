@@ -1,6 +1,6 @@
 # Navigation Component
 
-Navigation is one of the MUST what comes to the Frontend development. End users have
+Navigation is one of the MOST common components what comes to the Frontend development. End users have
 several devices and expect that their favourite web site has a working navigation that
 works with any device they are using it.
 
