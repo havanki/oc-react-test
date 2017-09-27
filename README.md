@@ -77,7 +77,10 @@ Only few requirements:
   * Component is usable also with mobile devices.
   * Component supports browsers: IE11, Chrome
   * It works with example API data!
-  * Optional: Add routing and placeholder components. [Example](./assignment/img/design/selected_with_2nd_lvl.png)
+  * **Optional:** Add routing and placeholder components. [Example](./assignment/img/design/selected_with_2nd_lvl.png)
+
+We would like to see your source code ( GitHub, BitBucket, .zip file... ) and preferably a live version of the component ( [GitHub Pages](https://pages.github.com/) is fairly easy, [Surge.sh](http://surge.sh/) is another option ).
+If live version is not available, and you have modified the original configuration, provide a good README instructions how to get component up and running.
 
 Some guidelines
 
@@ -86,13 +89,13 @@ Some guidelines
   + keep it clean
   + no need to support long strings and several navigation items
 
-  Feel free to use any react libraries you feel comfortable to use. 
+  Feel free to use any react libraries you feel comfortable to use.
   There are no correct or incorrect solution as long as it is yours solution.
 
 ### Development environment
 
     * clone this repository to your local environment.
-    * open command prompt and cd into project. ` cd react-test `.
+    * open command prompt and cd into project. ` cd oc-react-test `.
     * install all dependencies with npm ` npm install ` .
     * [Start] ` npm run start ` - Starts development environment and watches the changes.
     * [Build] ` npm run build ` - Bundles and minifies everything for production build.
